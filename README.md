@@ -1,3 +1,5 @@
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Beach-holiday-vacation-caribbean_%2823696591474%29.jpg/800px-Beach-holiday-vacation-caribbean_%2823696591474%29.jpg">
+
 # Adult Income RFClassifier
 
 ## 1. Proposal
@@ -7,7 +9,9 @@
 * If we can predict income, we can predict expenditure.
 
 ![low](https://github.com/Shane-McCallum/Adult-Income-EDA-and-RF-Classifier/blob/main/README%20images/lowest-quintile.jpg)
+
 ![average](https://github.com/Shane-McCallum/Adult-Income-EDA-and-RF-Classifier/blob/main/README%20images/average.jpg)
+
 ![high](https://github.com/Shane-McCallum/Adult-Income-EDA-and-RF-Classifier/blob/main/README%20images/highest-quintile.jpg)
 
 ## 2. Methodology
